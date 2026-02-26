@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/shibilijob/LeetCode/tree/master/0058-length-of-last-word) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/shibilijob/LeetCode/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/shibilijob/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
