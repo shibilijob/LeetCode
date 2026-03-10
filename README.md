@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/shibilijob/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/shibilijob/LeetCode/tree/master/0066-plus-one) |
+| [2652-sum-multiples](https://github.com/shibilijob/LeetCode/tree/master/2652-sum-multiples) |
 ## Simulation
 |  |
 | ------- |
