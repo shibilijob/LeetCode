@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/shibilijob/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/shibilijob/LeetCode/tree/master/0058-length-of-last-word) |
+| [0415-add-strings](https://github.com/shibilijob/LeetCode/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/shibilijob/LeetCode/tree/master/0709-to-lower-case) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shibilijob/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/shibilijob/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/shibilijob/LeetCode/tree/master/0066-plus-one) |
+| [0415-add-strings](https://github.com/shibilijob/LeetCode/tree/master/0415-add-strings) |
 | [2652-sum-multiples](https://github.com/shibilijob/LeetCode/tree/master/2652-sum-multiples) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shibilijob/LeetCode/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/shibilijob/LeetCode/tree/master/0415-add-strings) |
 ## Matrix
 |  |
 | ------- |
