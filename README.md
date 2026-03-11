@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shibilijob/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/shibilijob/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/shibilijob/LeetCode/tree/master/0283-move-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/shibilijob/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shibilijob/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shibilijob/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Two Pointers
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shibilijob/LeetCode/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/shibilijob/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
