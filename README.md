@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shibilijob/LeetCode/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/shibilijob/LeetCode/tree/master/0415-add-strings) |
 | [2652-sum-multiples](https://github.com/shibilijob/LeetCode/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/shibilijob/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shibilijob/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
