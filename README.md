@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shibilijob/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shibilijob/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/shibilijob/LeetCode/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/shibilijob/LeetCode/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shibilijob/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shibilijob/LeetCode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/shibilijob/LeetCode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/shibilijob/LeetCode/tree/master/0682-baseball-game) |
+| [2974-minimum-number-game](https://github.com/shibilijob/LeetCode/tree/master/2974-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/shibilijob/LeetCode/tree/master/0682-baseball-game) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/shibilijob/LeetCode/tree/master/2974-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/shibilijob/LeetCode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
