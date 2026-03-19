@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shibilijob/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/shibilijob/LeetCode/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/shibilijob/LeetCode/tree/master/0415-add-strings) |
+| [1486-xor-operation-in-an-array](https://github.com/shibilijob/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shibilijob/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shibilijob/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/shibilijob/LeetCode/tree/master/2652-sum-multiples) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/shibilijob/LeetCode/tree/master/2974-minimum-number-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/shibilijob/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
