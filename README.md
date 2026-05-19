@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shibilijob/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/shibilijob/LeetCode/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/shibilijob/LeetCode/tree/master/0415-add-strings) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shibilijob/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/shibilijob/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/shibilijob/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/shibilijob/LeetCode/tree/master/2413-smallest-even-multiple) |
