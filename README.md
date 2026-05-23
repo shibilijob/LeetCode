@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shibilijob/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/shibilijob/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/shibilijob/LeetCode/tree/master/0682-baseball-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/shibilijob/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/shibilijob/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shibilijob/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shibilijob/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shibilijob/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shibilijob/LeetCode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/shibilijob/LeetCode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/shibilijob/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shibilijob/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/shibilijob/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/shibilijob/LeetCode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
