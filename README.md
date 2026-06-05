@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shibilijob/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/shibilijob/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shibilijob/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/shibilijob/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shibilijob/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/shibilijob/LeetCode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/shibilijob/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shibilijob/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/shibilijob/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/shibilijob/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/shibilijob/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/shibilijob/LeetCode/tree/master/0415-add-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shibilijob/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/shibilijob/LeetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shibilijob/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shibilijob/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/shibilijob/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/shibilijob/LeetCode/tree/master/3024-type-of-triangle) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shibilijob/LeetCode/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/shibilijob/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Number Theory
 |  |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shibilijob/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/shibilijob/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -122,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shibilijob/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shibilijob/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
