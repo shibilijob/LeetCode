@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shibilijob/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/shibilijob/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shibilijob/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/shibilijob/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shibilijob/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shibilijob/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/shibilijob/LeetCode/tree/master/0682-baseball-game) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shibilijob/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shibilijob/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shibilijob/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/shibilijob/LeetCode/tree/master/2974-minimum-number-game) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shibilijob/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shibilijob/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/shibilijob/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
