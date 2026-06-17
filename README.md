@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shibilijob/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shibilijob/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shibilijob/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/shibilijob/LeetCode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/shibilijob/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/shibilijob/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/shibilijob/LeetCode/tree/master/0709-to-lower-case) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shibilijob/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shibilijob/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibilijob/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/shibilijob/LeetCode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/shibilijob/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/shibilijob/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/shibilijob/LeetCode/tree/master/3024-type-of-triangle) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shibilijob/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/shibilijob/LeetCode/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/shibilijob/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Number Theory
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shibilijob/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibilijob/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shibilijob/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/shibilijob/LeetCode/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
 | ------- |
