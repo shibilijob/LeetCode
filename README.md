@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibilijob/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0682-baseball-game](https://github.com/shibilijob/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shibilijob/LeetCode/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/shibilijob/LeetCode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/shibilijob/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/shibilijob/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/shibilijob/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shibilijob/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibilijob/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/shibilijob/LeetCode/tree/master/0392-is-subsequence) |
+| [0832-flipping-an-image](https://github.com/shibilijob/LeetCode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/shibilijob/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shibilijob/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/shibilijob/LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -99,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/shibilijob/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/shibilijob/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/shibilijob/LeetCode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/shibilijob/LeetCode/tree/master/0832-flipping-an-image) |
 | [2974-minimum-number-game](https://github.com/shibilijob/LeetCode/tree/master/2974-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/shibilijob/LeetCode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/shibilijob/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Stack
 |  |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shibilijob/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shibilijob/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shibilijob/LeetCode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/shibilijob/LeetCode/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/shibilijob/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Number Theory
 |  |
