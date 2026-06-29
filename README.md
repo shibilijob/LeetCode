@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shibilijob/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shibilijob/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibilijob/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/shibilijob/LeetCode/tree/master/0414-third-maximum-number) |
 | [0682-baseball-game](https://github.com/shibilijob/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shibilijob/LeetCode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/shibilijob/LeetCode/tree/master/0832-flipping-an-image) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shibilijob/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibilijob/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/shibilijob/LeetCode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/shibilijob/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shibilijob/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/shibilijob/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/shibilijob/LeetCode/tree/master/3024-type-of-triangle) |
