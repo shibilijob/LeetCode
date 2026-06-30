@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/shibilijob/LeetCode/tree/master/3019-number-of-changing-keys) |
 | [3794-reverse-string-prefix](https://github.com/shibilijob/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3856-trim-trailing-vowels](https://github.com/shibilijob/LeetCode/tree/master/3856-trim-trailing-vowels) |
+| [3931-check-adjacent-digit-differences](https://github.com/shibilijob/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 ## Array
 |  |
 | ------- |
