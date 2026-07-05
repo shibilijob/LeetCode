@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/shibilijob/LeetCode/tree/master/3019-number-of-changing-keys) |
 | [3794-reverse-string-prefix](https://github.com/shibilijob/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3856-trim-trailing-vowels](https://github.com/shibilijob/LeetCode/tree/master/3856-trim-trailing-vowels) |
+| [3894-traffic-signal-color](https://github.com/shibilijob/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/shibilijob/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 ## Array
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shibilijob/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/shibilijob/LeetCode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shibilijob/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3894-traffic-signal-color](https://github.com/shibilijob/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/shibilijob/LeetCode/tree/master/0832-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/shibilijob/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2974-minimum-number-game](https://github.com/shibilijob/LeetCode/tree/master/2974-minimum-number-game) |
+| [3894-traffic-signal-color](https://github.com/shibilijob/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Matrix
 |  |
 | ------- |
