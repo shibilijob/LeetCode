@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shibilijob/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/shibilijob/LeetCode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shibilijob/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shibilijob/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3894-traffic-signal-color](https://github.com/shibilijob/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shibilijob/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shibilijob/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
