@@ -6,6 +6,5 @@ var getMinDistance = function(nums, target, start) {
             dist.push(Math.abs(i-start))
         }
     }
-    console.log(dist)
     return Math.min(...dist)
 };
