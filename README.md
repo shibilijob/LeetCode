@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/shibilijob/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shibilijob/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3894-traffic-signal-color](https://github.com/shibilijob/LeetCode/tree/master/3894-traffic-signal-color) |
+| [3908-valid-digit-number](https://github.com/shibilijob/LeetCode/tree/master/3908-valid-digit-number) |
 ## Simulation
 |  |
 | ------- |
