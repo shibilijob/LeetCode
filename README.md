@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shibilijob/LeetCode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/shibilijob/LeetCode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/shibilijob/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/shibilijob/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1550-three-consecutive-odds](https://github.com/shibilijob/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/shibilijob/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shibilijob/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shibilijob/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shibilijob/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shibilijob/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/shibilijob/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2974-minimum-number-game](https://github.com/shibilijob/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/shibilijob/LeetCode/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shibilijob/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shibilijob/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shibilijob/LeetCode/tree/master/0389-find-the-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/shibilijob/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Queue
 |  |
 | ------- |
